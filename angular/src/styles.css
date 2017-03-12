@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.allrights{ text-align: right;}
+.footer-main {     margin: 0px auto;
+    display: table;
+    position: fixed;
+    bottom: 0px;
+    width: 100%; background: #eaeaea; padding: 5px;}
+.loginlinks ul li { list-style-type: none; display: inline; padding: 5px;}
+.loginlinks ul { padding-left: 0px !important;}
